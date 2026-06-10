@@ -12,6 +12,10 @@ Building **SMT manufacturing software** — from MES integrations and real-time 
 | [mcp-sql-server](https://github.com/gigimento/mcp-sql-server) | MCP server for natural-language SQL queries on MSSQL/SQLite |
 | [msl-classification](https://github.com/gigimento/msl-classification) | MSL classification pipeline for electronic components |
 | [component-intelligence-tool](https://github.com/gigimento/component-intelligence-tool) | AI-assisted component datasheet lookup & analysis |
+| [akytec-production-centar](https://github.com/gigimento/akytec-production-centar) | Streamlit SMT production dashboard with live OEE |
+| [heller-profile-optimizer](https://github.com/gigimento/heller-profile-optimizer) | Reflow oven thermal profile optimizer with AI |
+| [oee-enterprise-agent](https://github.com/gigimento/oee-enterprise-agent) | MCP-based OEE agent for enterprise integration |
+| [command-centar-launcher](https://github.com/gigimento/command-centar-launcher) | Unified launcher for manufacturing tools |
 
 ## 🔧 Stack
 
