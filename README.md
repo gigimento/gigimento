@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile-avatar.svg" width="120" alt="gigimento">
+  <img src="profile-avatar.gif" width="120" alt="gigimento">
 </p>
 
 <h1 align="center">Igor Ilic</h1>
