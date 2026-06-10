@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00d2ff"/>
+      <stop offset="100%" stop-color="#3a7bd5"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="80" fill="url(#bg)"/>
+
+  <!-- Circuit board traces -->
+  <g stroke="url(#accent)" stroke-width="2" fill="none" opacity="0.4">
+    <path d="M60 200 h40 v-60 h40"/>
+    <path d="M80 200 v80 h60"/>
+    <path d="M300 150 h40 v80 h-20"/>
+    <path d="M280 260 h40 v-40 h20"/>
+    <path d="M120 300 h80 v-40 h40"/>
+    <path d="M250 100 h40 v40 h-20"/>
+  </g>
+
+  <!-- Chip/CPU icon in center -->
+  <rect x="140" y="140" width="120" height="120" rx="12" fill="none" stroke="url(#accent)" stroke-width="3"/>
+  <rect x="160" y="160" width="80" height="80" rx="6" fill="url(#accent)" opacity="0.15"/>
+  <rect x="175" y="175" width="50" height="50" rx="4" fill="url(#accent)" opacity="0.3"/>
+
+  <!-- Chip pins -->
+  <g stroke="url(#accent)" stroke-width="3" stroke-linecap="round">
+    <line x1="170" y1="140" x2="170" y2="120"/>
+    <line x1="200" y1="140" x2="200" y2="120"/>
+    <line x1="230" y1="140" x2="230" y2="120"/>
+    <line x1="170" y1="260" x2="170" y2="280"/>
+    <line x1="200" y1="260" x2="200" y2="280"/>
+    <line x1="230" y1="260" x2="230" y2="280"/>
+    <line x1="140" y1="170" x2="120" y2="170"/>
+    <line x1="140" y1="200" x2="120" y2="200"/>
+    <line x1="140" y1="230" x2="120" y2="230"/>
+    <line x1="260" y1="170" x2="280" y2="170"/>
+    <line x1="260" y1="200" x2="280" y2="200"/>
+    <line x1="260" y1="230" x2="280" y2="230"/>
+  </g>
+
+  <!-- Waveform overlay suggests analytics -->
+  <polyline points="60,330 100,290 140,310 180,270 220,300 260,250 300,280 340,230"
+    fill="none" stroke="url(#accent)" stroke-width="2.5" opacity="0.6"/>
+  <circle cx="200" cy="340" r="3" fill="url(#accent)" opacity="0.8"/>
+</svg>
