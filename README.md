@@ -54,6 +54,19 @@
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gigimento&show_icons=true&theme=dark&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&hide_border=false&count_private=true" width="49%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigimento&layout=compact&theme=dark&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&hide_border=false" width="49%" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gigimento&theme=dark&ring=00d4ff&fire=00d4ff&currStreakNum=c9d1d9&sideNums=c9d1d9&background=0d1117&border=30363d" width="49%" alt="GitHub Streak">
+</p>
+
+---
+
 ## Focus Areas
 
 - **Surface-Mount Technology (SMT)** — production line software, reflow profiling, AOI/SPI analytics
